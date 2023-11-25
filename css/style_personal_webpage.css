@@ -1,0 +1,29 @@
+body { /* affect appearance of the entire page*/
+    
+    font-family: Helvetica;
+    text-align: center;
+}
+
+/*
+h1 {
+    color: green; We generally choose color using color codes
+    background-color: honeydew;
+}
+*/
+
+strong { 
+    color: teal;
+}
+
+a {
+    color: black;
+}
+
+nav {
+    text-align: center;
+}
+
+.same_line_list {
+        display: inline-block;
+        margin: 0px 20px;
+    }
